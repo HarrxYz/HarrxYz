@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @HarrxYz
 - 
 - 👀 I’m very interested in data and machine learning
+- newbie, ajarin dong puh sepuh akumah masih pemula 
 
  
 
@@ -10,8 +11,8 @@
 
 - 📫 How to reach me
 - 
-<a href="https://www.linkedin.com/in/harrxyz/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://instagram.com/harrxyz"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/harryfzn/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://instagram.com/harryfzn"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
 
 
