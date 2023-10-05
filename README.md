@@ -9,7 +9,7 @@
 
 
 ![Harry Github Stats](https://github-readme-stats.vercel.app/api?username=harryfzn&show_icons=trus&title_color=fff&icon_color=20C20E&text_color=20C20E&bg_color=000000)
- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=harryfzn&layout=compact&langs_count=8&theme=algolia"/>
+ <img height="150em" weidth="200" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=harryfzn&layout=compact&langs_count=8&theme=algolia"/>
 
 - 📫 How to reach me
 - 
