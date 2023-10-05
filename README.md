@@ -1,13 +1,15 @@
 - 👋 Hi, I’m @HarrxYz
-- 
-- 👀 I’m very interested in data and machine learning
-- newbie, ajarin dong puh sepuh akumah masih pemula 
 
+- I'm a fresh graduate of **Informatics Engineering Student** at [Universitas Islam Negeri Sunan Gunung Djati Bandung](https://uinsgd.ac.id/).
+- I am also a **Student** at [Dicoding](https://www.dicoding.com/) and Machine Learning **Graduate** at [Bangkit Academy](https://bangkit.academy) 2022
+- 👀 I’m very interested in data and machine learning
+-
  
 
 
 
-![Harry Github Stats](https://github-readme-stats.vercel.app/api?username=harrxyz&show_icons=trus&title_color=fff&icon_color=20C20E&text_color=20C20E&bg_color=000000)
+![Harry Github Stats](https://github-readme-stats.vercel.app/api?username=harryfzn&show_icons=trus&title_color=fff&icon_color=20C20E&text_color=20C20E&bg_color=000000)
+ <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=harryfzn&layout=compact&langs_count=8&theme=algolia"/>
 
 - 📫 How to reach me
 - 
